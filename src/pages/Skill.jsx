@@ -21,38 +21,38 @@ const Skill = () => {
           <p className=" text-gen text-[20px] text-center">Technologies</p>
         </div>
         <div className=" space-y-10  ">
-          <div className="sm:w-[50%] w-[100%] justify-evenly md:justify-center lg:w-[100%] mx-auto md:w-[100%] ml-[5px] md:ml-0 sm sm:flex sm:items-center flex flex-wrap space-x-2 sm:space-x-10">
-            <p className="  p-0 sm:p-5 text-[50px] sm:text-[60px] md:text-[90px] bg-bg2">
+          <div className="sm:w-[100%] w-[100%] justify-evenly  md:justify-center lg:w-[100%] mx-auto md:w-[100%] ml-[5px] md:ml-0 sm sm:flex sm:items-center flex flex-wrap space-x-2 sm:space-x-5">
+            <p className="  p-0 sm:p-5 text-[50px] sm:text-[40px] md:text-[90px] bg-bg2">
               <AiFillHtml5 className=" text-red-500" />
             </p>
 
-            <p className=" p-0 sm:p-5 text-[50px] sm:text-[60px] md:text-[90px] bg-bg2">
+            <p className=" p-0 sm:p-5 text-[50px] sm:text-[40px] md:text-[90px] bg-bg2">
               <FaCss3Alt className=" text-blue-500" />
             </p>
-            <p className=" p-0 sm:p-5 text-[50px] sm:text-[60px] md:text-[90px] bg-bg2">
+            <p className=" p-0 sm:p-5 text-[50px] sm:text-[40px] md:text-[90px] bg-bg2">
               <SiJavascript className=" text-yellow-400" />
             </p>
-            <p className=" p-0 sm:p-5 text-[50px] sm:text-[60px] md:text-[90px] bg-bg2">
+            <p className=" p-0 sm:p-5 text-[50px] sm:text-[40px] md:text-[90px] bg-bg2">
               <BsFillBootstrapFill className=" text-violet-500" />
             </p>
-            <p className=" p-0 sm:p-5  text-[50px] sm:text-[60px] md:text-[90px] bg-bg2">
+            <p className=" p-0 sm:p-5  text-[50px] sm:text-[40px] md:text-[90px] bg-bg2">
               <SiTailwindcss className=" text-blue-500" />
             </p>
           </div>
-          <div className=" w-[100%] justify-evenly md:justify-center sm:w-[50%] lg:w-[100%] mx-auto md:w-[100%] ml-[5px] md:ml-0 sm sm:flex sm:items-center flex items-center space-x-2 sm:space-x-10">
-            <p className=" p-0 sm:p-5 text-[50px] sm:text-[60px] md:text-[90px] bg-bg2">
+          <div className=" w-[100%] justify-evenly md:justify-center sm:w-[100%] lg:w-[100%] mx-auto md:w-[100%] ml-[5px] md:ml-0 sm sm:flex sm:items-center flex items-center space-x-2 sm:space-x-5">
+            <p className=" p-0 sm:p-5 text-[50px] sm:text-[40px] md:text-[90px] bg-bg2">
               <GrReactjs className=" text-blue-600" />
             </p>
-            <p className=" p-0 sm:p-5 text-[50px] sm:text-[60px] md:text-[90px] bg-bg2">
+            <p className=" p-0 sm:p-5 text-[50px] sm:text-[40px] md:text-[90px] bg-bg2">
               <SiRedux className=" text-blue-800" />
             </p>
-            <p className=" p-0 sm:p-5 text-[50px] sm:text-[60px] md:text-[90px] bg-bg2">
+            <p className=" p-0 sm:p-5 text-[50px] sm:text-[40px] md:text-[90px] bg-bg2">
               <DiGit className=" text-red-500" />
             </p>
-            <p className=" p-0 sm:p-5 text-[50px] sm:text-[60px] md:text-[90px] bg-bg2">
+            <p className=" p-0 sm:p-5 text-[50px] sm:text-[40px] md:text-[90px] bg-bg2">
               <DiLinux className=" text-yellow-500" />
             </p>
-            <p className=" p-0 sm:p-5 text-[50px] sm:text-[60px] md:text-[90px] bg-bg2">
+            <p className=" p-0 sm:p-5 text-[50px] sm:text-[40px] md:text-[90px] bg-bg2">
               <DiSass className=" text-pink-500" />
             </p>
           </div>

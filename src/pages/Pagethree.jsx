@@ -53,7 +53,7 @@ const Pagethree = () => {
         <p>Here are some of my projects you shouldn't misss</p>
       </div>
       <div className=" lg:flex-row  lg:mx-auto  lg:justify-between space-y-5 md:mx-auto md:w-[90%] md:py-5  mx-auto  lg:p-0  md:p-0   sm:p-0  lg:w-[70%]  sm:w-[70%] sm:flex-col sm:mx-auto sm:flex w-[90%] md:flex md:flex-row md:flex-wrap py-10">
-        <div className=" lg:w-[45%]  md:w-[45%] md:mr-10  sm:py-5 lg:py-20 sm:w-[100%] w-[100%]   space-y-3 ">
+        <div className=" lg:w-[45%]  md:w-[45%] md:mr-7 sm:py-5 lg:py-20 sm:w-[100%] w-[100%]   space-y-3 ">
           <div className="">
             <img
               src={photo1}
@@ -115,7 +115,7 @@ const Pagethree = () => {
             </p>
           </div>
         </div>
-        <div className=" lg:w-[45%] md:w-[45%] md:mr-9 sm:py-0 lg:py-5 sm:w-[100%] w-[100%]   space-y-3 ">
+        <div className=" lg:w-[45%] md:w-[45%] md:mr-7 sm:py-0 lg:py-5 sm:w-[100%] w-[100%]   space-y-3 ">
           <div className=" ">
             <img
               src={photo3}
