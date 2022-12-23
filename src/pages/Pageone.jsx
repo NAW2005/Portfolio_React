@@ -7,7 +7,7 @@ import { SlArrowDown } from "react-icons/sl";
 
 const Pageone = () => {
   return (
-    <div className="bg-bg" >
+    <div className="bg-bg" id="main">
       <div className="  sm:py-16 lg:py-32  justify-center flex ">
         <div className=" lg:w-[70%] sm:w-full sm:p-7 p-3 md:w-[80%]    flex flex-col lg:flex-row-reverse mt-[50px] lg:mt-0">
           <div className="w-[70%] mx-auto  lg:w-[40%]  ">
@@ -46,7 +46,7 @@ const Pageone = () => {
           </div>
         </div>
       </div>
-      <div className="  lg:block md:hidden sm:hidden hidden space-y-1  animate-bounce cursor-pointer w-[50px]  text-lg  text-white mx-auto hover:text-gen  ">
+      <a href="#pone" className="  lg:block md:hidden sm:hidden hidden space-y-1  animate-bounce cursor-pointer w-[50px]  text-lg  text-white mx-auto hover:text-gen  ">
         <p className=" text-center">Scrol</p>
         <p className="">
           <BsMouse className=" mx-auto" />
@@ -54,7 +54,7 @@ const Pageone = () => {
         <p>
           <SlArrowDown className=" mx-auto text-sm" />
         </p>
-      </div>
+      </a>
     </div>
   );
 };

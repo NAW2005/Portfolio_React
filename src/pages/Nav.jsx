@@ -29,9 +29,9 @@ const Nav = () => {
         ></div>
         <div>
           <div className="  flex items-center text-2xl font-[400]">
-            <p className=" duration-300 hover:text-gen cursor-pointer text-white">
+            <a href="#main" className=" duration-300 hover:text-gen cursor-pointer text-white">
               NawNaw
-            </p>
+            </a>
             <p className="text-gen ">.dev</p>
           </div>
         </div>

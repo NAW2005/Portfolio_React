@@ -54,13 +54,13 @@ const Pagethree = () => {
       </div>
       <div className=" lg:flex-row  lg:mx-auto  lg:justify-between space-y-5 md:mx-auto md:w-[90%] md:py-5  mx-auto  lg:p-0  md:p-0   sm:p-0  lg:w-[70%]  sm:w-[70%] sm:flex-col sm:mx-auto sm:flex w-[90%] md:flex md:flex-row md:flex-wrap py-10">
         <div className=" lg:w-[45%]  md:w-[45%] md:mr-7 sm:py-5 lg:py-20 sm:w-[100%] w-[100%]   space-y-3 ">
-          <div className="">
+          <a href="https://crypto-naw.netlify.app" target={'_blank'} className="">
             <img
               src={photo1}
               className=" lg:w-[100%] md:w-[100%] sm:w-[100%] w-[100%] h-[270px] rounded-md cursor-pointer"
               alt=""
             />
-          </div>
+          </a>
           <div className="  md:w-[100%] flex justify-between sm:w-[100%]">
             <h1 className=" text-gen text-lg">Crypto API</h1>
             <a
@@ -84,13 +84,13 @@ const Pagethree = () => {
           </div>
         </div>
         <div className="lg:w-[45%]   lg:translate-y-[-20px] md:w-[45%] lg:py-20 sm:py-0 sm:w-[100%] w-[100%] space-y-3">
-          <div className="">
+          <a href="https://polite-torte-660654.netlify.app" target={'_blank'} className="">
             <img
               src={photo2}
               className=" md:w-[100%] sm:w-[100%] lg:w-[100%]  h-[270px] rounded-md  cursor-pointer"
               alt=""
             />
-          </div>
+          </a>
           <div className=" md:w-[100%] sm:w-[100%] flex justify-between">
             <h1 className=" text-gen text-lg">Google Contacs</h1>
             <a
@@ -116,13 +116,13 @@ const Pagethree = () => {
           </div>
         </div>
         <div className=" lg:w-[45%] md:w-[45%] md:mr-7 sm:py-0 lg:py-5 sm:w-[100%] w-[100%]   space-y-3 ">
-          <div className=" ">
+          <a href="https://ecommerce-naw.netlify.app" target={'_blank'} className=" ">
             <img
               src={photo3}
               className=" md:w-[100%]  sm:w-[100%] lg:w-[100%] h-[270px]  rounded-md cursor-pointer"
               alt=""
             />
-          </div>
+          </a>
           <div className=" md:w-[100%] sm:w-[100%] flex justify-between">
             <h1 className="  text-gen text-lg">E-commerce</h1>
             <a
@@ -146,13 +146,13 @@ const Pagethree = () => {
           </div>
         </div>
         <div className=" lg:w-[45%] lg:mr-0 md:w-[45%] md:mr-10  sm:py-0 lg:py-5 sm:w-[100%] w-[100%]   space-y-3 ">
-          <div className=" ">
+          <a href="https://facefook-nawnaw.netlify.app" target={'_blank'} className=" ">
             <img
               src={photo4}
               className=" md:w-[100%] w-[100%]  sm:w-[100%] lg:w-[100%] h-[270px]  rounded-md cursor-pointer"
               alt=""
             />
-          </div>
+          </a>
           <div className=" md:w-[100%] sm:w-[100%] flex justify-between">
             <h1 className="  text-gen text-lg">Facefook Social-Media</h1>
             <a target='_blank' href="https://github.com/NAW2005/Social-Media-React">
